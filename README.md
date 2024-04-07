@@ -61,7 +61,7 @@
 
 ###
 
-<h2>Contacto/Contact</h2>
+<h2 align="left">Contacto/Contact</h2>
 <p>oziellemus2002@gmail.com</p>
 
 ###
