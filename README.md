@@ -43,12 +43,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/OzielLM/OzielLM/output/snake.svg" alt="Snake animation" />
-
-###
-
 <img align="right" height="150" src="https://cdn.dribbble.com/users/603800/screenshots/4569474/dribbble-code.gif"  />
 
 ###
