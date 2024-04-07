@@ -48,9 +48,6 @@
 ###
 
 <div align="left">
-  <a href="oziellemus2002@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/oziel-imanol-lemus-montelongo-b7aa69302/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
@@ -61,5 +58,10 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
 </div>
+
+###
+
+<h2>Contacto/Contact</h2>
+<p>oziellemus2002@gmail.com</p>
 
 ###
