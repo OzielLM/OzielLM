@@ -6,6 +6,10 @@
 
 ###
 
+<h4 align="left">Estudiante apasionado de ingeniería en software y sistemas computacionales con una sólida base en programación, diseño de software y desarrollo de sistemas. Poseo habilidades en lenguajes de programación como Java, Python, C#, Kotlin y Swift, así como experiencia en el desarrollo de aplicaciones web y móviles utilizando tecnologías como HTML, CSS y JavaScript. Con un enfoque centrado en la resolución de problemas y el trabajo en equipo, estoy comprometido con la excelencia académica y la búsqueda constante de oportunidades para aprender y crecer en el campo de la tecnología. Mi objetivo es aplicar mis conocimientos y habilidades para contribuir de manera significativa al desarrollo de soluciones innovadoras en el mundo de la ingeniería de software.</h4>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OzielLM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
