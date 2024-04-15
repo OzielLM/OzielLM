@@ -6,7 +6,16 @@
 
 ###
 
+<h3 align="left">Contacto/Contact</h3>
+<p>oziellemus2002@gmail.com</p>
+
+###
+
 <h4 align="left">Estudiante apasionado de ingeniería en software y sistemas computacionales con una sólida base en programación, diseño de software y desarrollo de sistemas. Poseo habilidades en lenguajes de programación como Java, Python, C#, Kotlin y Swift, así como experiencia en el desarrollo de aplicaciones web y móviles utilizando tecnologías como HTML, CSS y JavaScript. Con un enfoque centrado en la resolución de problemas y el trabajo en equipo, estoy comprometido con la excelencia académica y la búsqueda constante de oportunidades para aprender y crecer en el campo de la tecnología. Mi objetivo es aplicar mis conocimientos y habilidades para contribuir de manera significativa al desarrollo de soluciones innovadoras en el mundo de la ingeniería de software.</h4>
+
+###
+
+<h4 align="left">Passionate student of software engineering and computer systems with a solid background in programming, software design and systems development. I possess skills in programming languages such as Java, Python, C#, Kotlin and Swift, as well as experience in web and mobile application development using technologies such as HTML, CSS and JavaScript. With a focus on problem solving and teamwork, I am committed to academic excellence and constantly seeking opportunities to learn and grow in the technology field. My goal is to apply my knowledge and skills to contribute significantly to the development of innovative solutions in the world of software engineering.</h4>
 
 ###
 
@@ -61,10 +70,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<h3 align="left">Contacto/Contact</h3>
-<p>oziellemus2002@gmail.com</p>
 
 ###
