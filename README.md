@@ -15,7 +15,7 @@
 
 ###
 
-<h4 align="left">Passionate student of software engineering and computer systems with a solid background in programming, software design and systems development. I possess skills in programming languages such as Java, Python, C#, Kotlin and Swift, as well as experience in web and mobile application development using technologies such as HTML, CSS and JavaScript. With a focus on problem solving and teamwork, I am committed to academic excellence and constantly seeking opportunities to learn and grow in the technology field. My goal is to apply my knowledge and skills to contribute significantly to the development of innovative solutions in the world of software engineering.</h4>
+<h4 align="left">Passionate student of software and computer systems engineering with a solid background in programming, software design and systems development. I possess skills in programming languages such as Java, Python, C#, Kotlin and Swift, as well as experience in web and mobile application development using technologies such as HTML, CSS and JavaScript. With a focus on problem solving and teamwork, I am committed to academic excellence and constantly seeking opportunities to learn and grow in the technology field. My goal is to apply my knowledge and skills to contribute significantly to the development of innovative solutions in the world of software engineering.</h4>
 
 ###
 
