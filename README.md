@@ -20,7 +20,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OzielLM&locale=en&hide_title=false&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="350" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OzielLM&locale=en&hide_title=false&card_width=320&langs_count=5&theme=dracula&hide_border=false&layout=compact" height="350" alt="languages graph"  />
 </div>
 
 ###
@@ -56,19 +56,5 @@
 ###
 
 <img align="right" height="150" src="https://cdn.dribbble.com/users/603800/screenshots/4569474/dribbble-code.gif"  />
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/oziel-imanol-lemus-montelongo-b7aa69302/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/oziel.lemusmontelongo/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/imnot_oziel/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
-  </a>
-</div>
 
 ###
