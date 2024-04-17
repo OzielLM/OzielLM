@@ -63,6 +63,6 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.dribbble.com/users/603800/screenshots/4569474/dribbble-code.gif"  />
+<img align="center" height="150" src="https://cdn.dribbble.com/users/603800/screenshots/4569474/dribbble-code.gif"  />
 
 ###
