@@ -26,6 +26,15 @@
 ###
 
 <div align="left">
+  <h2>Lenguajes Utilizados</h2>
+  <p>C#: para aplicaciones de escritorio y programación de videojuegos.
+Java: POO y estructurada, en aplicaciones de escritorio.
+GML (Game Maker Lenguaje): Para desarrollo de videojuegos.
+Swift: Aplicaciones de escritorio.
+HTML, CSS, JavaScript: aplicaciones multiplataforma y páginas web.
+MAUI: Aplicaciones multiplataforma.
+Kotlin: Aplicaciones móviles.
+Python: Para procesamiento de imágenes y páginas web.</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" alt="apple logo"  />
